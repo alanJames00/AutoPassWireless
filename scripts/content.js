@@ -18,5 +18,5 @@ function loginFn(){
     termsAgreeBtn.click();
     loginBtn.click();
 }
-
+// timeout to prevent any issues
 setTimeout(loginFn ,1000);  

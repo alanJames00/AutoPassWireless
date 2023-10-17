@@ -11,7 +11,7 @@
   },
   "action": {
     "default_popup": "popup.html",
-    "default_title": "open alert"
+    "default_title": "AutoMate LPU UMS portal"
   },
   "permissions": [ "activeTab","scripting" ],
   "content_scripts": [

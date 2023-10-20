@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "AutoUMS",
   "author": "https://github.com/alanJames00",  
   "description": "Automate LPU UMS portal.",

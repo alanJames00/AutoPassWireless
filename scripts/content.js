@@ -1,5 +1,8 @@
 console.log('✈️ AutoUMS in action...');
 
+const USERNAME = "your_username";
+const PASSWORD = "your_password";
+
 let loginField = document.querySelector(".login-field")
 let termsAgree = document.querySelector(".login-section");
 
@@ -10,8 +13,8 @@ let loginBtn = loginField.children[4].firstChild;
 let termsAgreeBtn = termsAgree.children[2].firstChild
 
 
-userNameField.setAttribute("value", "12213701");
-passwordField.setAttribute("value", "J4&2ko@0");
+userNameField.setAttribute("value", USERNAME);
+passwordField.setAttribute("value", PASSWORD);
 
 
 function loginFn(){

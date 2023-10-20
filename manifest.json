@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "AutoUMS",
+  "name": "AutoPassWireless",
   "author": "https://github.com/alanJames00",  
-  "description": "Automate LPU UMS portal.",
-  "version": "1.0",
+  "description": "Automate LPU Wireless Login.",
+  "version": "0.1",
   "icons": {
     "16": "images/icon-16.png",
     "32": "images/icon-32.png",
@@ -12,7 +12,7 @@
   },
   "action": {
     "default_popup": "popup.html",
-    "default_title": "AutoMate LPU UMS portal"
+    "default_title": "AutoMate LPU Wireless Login"
   },
   "permissions": [ "activeTab","scripting" ],
   "content_scripts": [

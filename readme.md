@@ -1,4 +1,4 @@
-# AutoUMS
+# AutoPassWireless
 
 **Made for LPU Students**
 

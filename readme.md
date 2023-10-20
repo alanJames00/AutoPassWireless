@@ -1,6 +1,6 @@
 # AutoPassWireless
 
-**Made for LPU Students**
+**Made Exclusively for for LPU Students**
 
 AutoPassWireless is a chrome extension that automates wireless network login
 
